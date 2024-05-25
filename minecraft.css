@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.imagem {
+    border: solid 2px;
+    margin-left: 470px;
+    width: 934px; ;
+    height: 538px;
+}
+p {
+    margin-left: 470px;
+    margin-right: 470px;
+    font-size: 19px;
+}
+h3 {
+    margin-left: 470px;
+    margin-right: 470px;
+    color: #ED8C00;
+}
+a {
+    font-size: 20px;
+    background-color: #ED8C00;
+}
+buton {
+   width: 10px;
+   height: 20px;
+   border:#000 solid 3px ;
+   background-color: #ED8C00;
+   color: #ED8C00;
+}
+.div-a {
+    padding-left: 480px;
+}
